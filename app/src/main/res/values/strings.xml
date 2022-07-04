@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather forecast</string>
+    <string name="city_name">City name</string>
+    <string name="_30">30</string>
+    <string name="condition">Condition</string>
+    <string name="time">time</string>
+</resources>
